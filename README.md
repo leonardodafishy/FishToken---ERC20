@@ -120,3 +120,6 @@ These errors provide meaningful feedback during exceptional conditions.
 ## License
 
 This contract operates under the [MIT License](https://opensource.org/licenses/MIT). Refer to the SPDX-License-Identifier comment at the contract's outset for detailed license information.
+
+## Author
+This project is authored by Miguel Angelo M. Fesalbon.
